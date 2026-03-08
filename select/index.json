@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "月",
+  "base_artist": "Guiano",
+  "createdAt": "2026-03-08T05:59:27.460963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_月・影・舞・華_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_月・影・舞・華_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雪・月・花",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/03_雪・月・花_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雪・月・花",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/04_雪・月・花_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月",
+      "artist": "FLOWER FLOWER",
+      "has_synced": false,
+      "path": "select/05_月_FLOWER_FLOWER.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月",
+      "artist": "Macintosh Plus",
+      "has_synced": true,
+      "path": "select/06_月_Macintosh_Plus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/07_月・影・舞・華_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月・影・舞・華  (Tsuki・Kage・Mai・Ka)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/08_月・影・舞・華_(Tsuki・Kage・Mai・Ka)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/09_月・影・舞・華_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "月",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/10_月_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/11_月・影・舞・華_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/12_月・影・舞・華_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tsuki Kage Mai Ka (月・影・舞・華)",
+      "artist": "Wagakki Band（和楽器バンド）",
+      "has_synced": true,
+      "path": "select/13_Tsuki_Kage_Mai_Ka_(月・影・舞・華)_Wagakki_Band(和楽器バンド).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "月",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/14_月_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "月 - Live",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/15_月_-_Live_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "月",
+      "artist": "好妹妹",
+      "has_synced": true,
+      "path": "select/16_月_好妹妹.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月がない街 (feat. 初音ミク)",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_月がない街_(feat._初音ミク)_Guiano.txt"
+    }
+  ]
+}
